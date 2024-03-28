@@ -187,3 +187,5 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
+
+//ne oluyor bilmiyorum
