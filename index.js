@@ -100,7 +100,7 @@ let ucetambolunenler,
 // 3a çözümü
 
 /* kodlar buraya */
-
+console.log("selamlar 0324");
 // 3b çözümü:
 
 /* kodlar buraya */
